@@ -1,1 +1,29 @@
-hey
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<header>
+<a target="_blank" class="margin" href="https://www.pdga.com/introduction">Learn About Disc Golf</a>
+<a target="_blank" class="margin" href="https://www.youtube.com/watch?v=T7Buk1Hn8jM&t=17s&ab_channel=InnovaDiscs">Get Started With Disc Golf</a>
+</header>
+<body>
+    <h1>The Greatest Shot In Disc Golf History</h1>
+    <h2>James Conrad Throws what could be the Best Shot in Disc Golf History at the 2021 Disc Golf World Championships</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eOhO7FfVQlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p class="throw">James Conrad throwing his third shot on hole 18 at <a target="_blank" href="https://www.dgcoursereview.com/course.php?id=9830">The Fort</a> in Utah. Being one back of Mcbeth on the last hole, he needed to make it. As soon as he releases it from his hand you can hear
+        somone in the croud yell "Get in the hole!". The rest is history.
+    </p>
+    <br><br>
+    <h3>"The Shot Heard Around the World"</h3>
+    <p class="world">James went on to win the playoff against Mcbeth. The impact of his heroic finish in taking down the 5x and reigning world champ was huge. Not only did he do it, but he did it
+        in style. This shot started to be called "The shot heard around the world" due to the loud reaction from fans when the shot went into the basket. The shot went on to be <a target="_blank" href="https://www.youtube.com/watch?v=FEoBirjfHkM&ab_channel=RIGHTNOWORNEVER%21">ESPN Top 10s</a> #1 spot for the day
+        and recieved worldwide attention helping grow the sport even further. The shot that James threw was not only to help him succeed in getting his first World Championship title, but to take
+        the sports popularity and recognition to a whole new level. Disc golf is on the rise quicker than ever.
+    </p>
+</body>
+</html> 
